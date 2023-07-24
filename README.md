@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px">
 
-Hey <img srx="https://media2.giphy.com/media/14APLG463ouIBK5J4W/giphy.gif" width="30px" height="30px"> there fellow traveller. 
+<h3><b>Hey there,</b></h3>
 I'm Dipankar. Just a guy who is interested in Malware, Threat Hunting and Blue Team stuffs.
+
+<br><br>
+![Mr-Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Cosmos&theme=synthwave&show_icons=true&custom_title=Mr.%20Cosmos%20Github%20Stats)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Cosmos&layout=compact&theme=synthwave)
+
+<br>
+<br>
+<br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd256b212MGV6MmhzcWlqZDFmdWliMjM4MXNkaTR4NXZjNmxxOTY1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWRTFvymri1XABdEFA/giphy.gif">
