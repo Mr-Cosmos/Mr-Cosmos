@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/Mr-Cosmos/Mr-Cosmos/main/431541-galaxy-universe-pixel-art-pixels-digital-art-artwork.png)](https://xyz.dev/)
+[![Header](https://raw.githubusercontent.com/Mr-Cosmos/Mr-Cosmos/main/black-hole-by-kurzgesagt-2-3840%C3%972160.jpg)](https://xyz.dev/)
 <!--
 **Mr-Cosmos/Mr-Cosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
