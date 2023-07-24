@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hey <img srx="https://media2.giphy.com/media/14APLG463ouIBK5J4W/giphy.gif" width="30px" height="30px"> there fellow traveller. 
+I'm Dipankar. Just a guy who is interested in Malware, Threat Hunting and Blue Team stuffs.
