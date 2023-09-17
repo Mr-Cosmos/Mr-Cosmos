@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px"><img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/giphy.gif" width="70px" height="70px">
 
 <h3><b>Hey there,</b></h3>
-I'm Dipankar. Just a guy who is interested in Malware, Threat Hunting and Blue Team stuffs.
+I'm Dipankar. Just a guy who is interested in Lot's of stuffs. Feel free to look around.
 
 <br><br>
 ![Mr-Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Cosmos&theme=synthwave&show_icons=true&custom_title=Mr.%20Cosmos%20Github%20Stats)
